@@ -15,3 +15,4 @@ All items will resize along with the GraphicsView.
 
 Below the view is a pushbutton. Click it and I will check if the text matches the image and change right column's status accordingly. If it matches, it will be green. Otherwise it will be red.
 
+![screenshot](https://cloud.githubusercontent.com/assets/23444620/26026669/cd6007b6-37bc-11e7-89a2-d670625428bf.PNG)
