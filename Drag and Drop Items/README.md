@@ -15,5 +15,5 @@ All items will resize along with the GraphicsView.
 
 Below the view is a pushbutton. Click it and I will check if the text matches the image and change right column's status accordingly. If it matches, it will be green. Otherwise it will be red.
 
-<img src="https://github.com/haodayitoutou/PySide/tree/master/Drag%20and%20Drop%20Items/Screenshot.PNG" alt="screenshot" aligh="left" />
+<img src="https://raw.github.com/haodayitoutou/PySide/tree/master/Drag%20and%20Drop%20Items/Screenshot.PNG" alt="screenshot" aligh="left" />
 ![screenshoot](https://raw.github.com/haodayitoutou/PySide/tree/master/Drag%20and%20Drop%20Items/Screenshot.PNG)
