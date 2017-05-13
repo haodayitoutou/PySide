@@ -7,7 +7,7 @@ Top is a GraphicsView. It has three columns of items.
 
 Left column is a subclass of QGraphicsTextItem. It accepts a string as its text. You can drag this event and pass its text to other items. This is achieved by mousePress/MoveEvent.
 
-Middle column is a subclass of QGraphicsPixmapItem. It can load and display a image file.
+Middle column is a subclass of QGraphicsPixmapItem. It can load and display an image file.
 
 Right column is a subclass of QGraphicsItem. It can accept other item's drop and display the text it recieves. It also has an attribute to decides its background color.
 
