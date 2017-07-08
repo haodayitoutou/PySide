@@ -14,6 +14,5 @@ Right side are some widgets to set the parameters of the trapezoid. The paramete
 6 alpha: angle in degree;
 7 Inner Color: color inside the trapezoid;
 8 Outer Color: color outside the trapezoid.
-A simple dialog with 2 widgets in it.
 
-Change any of these will update the plot.
+Change on any of these widgets will update the plot.
