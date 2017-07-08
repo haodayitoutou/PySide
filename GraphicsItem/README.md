@@ -1,7 +1,7 @@
 
 # Trapezoid Item
 
-![screenshot](https://cloud.githubusercontent.com/assets/23444620/26026669/cd6007b6-37bc-11e7-89a2-d670625428bf.PNG)
+![screenshot](/TrapezoidItem.PNG?raw=true "Screenshot")
 
 Left side is a QGraphicsView, which displays a rectangle. The label below it displays the coordinate of the cursor. The origin of the coordinate is the bottom-left point.
 
